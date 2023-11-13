@@ -17,14 +17,14 @@ This curriculum module contains interactive [MATLAB® live scripts](https://www.
 <a name="H_F00D98E4"></a>
 ## Background
 
-You can use these live scripts to teach an introduction to density functional theory, an inherently computational topic. The first few live scripts review the fundamentals of single-particle quantum mechanics and highlight usage of symbolic computations. Then Hartree and Hartree-Fock variational methods are introduced and simple numerical codes are provided for calculating the ground state energy of helium atom. Next, we present the Thomas-Fermi model of an atom, introducing the key notion of the energy functional of electron density. Density functional theory and its orbital-free and Kohn-Sham implementations are covered in the later live scrips. Numerical implementations of OFDFT and KS-DFT are provided for systems with spherically symmetric ground state electron densities. 
+You can use these live scripts to teach an introduction to density functional theory, or learn basics of DFT, an inherently computational topic. The first few live scripts review the fundamentals of single-particle quantum mechanics and highlight usage of symbolic computations. Then Hartree and Hartree-Fock variational methods are introduced and simple numerical codes are provided for calculating the ground state energy of helium atom. Next, we present the Thomas-Fermi model of an atom, introducing the key notion of the energy functional of electron density. Density functional theory and its orbital-free and Kohn-Sham implementations are covered in the later live scrips. Numerical implementations of OFDFT and KS-DFT are provided for systems with spherically symmetric ground state electron densities. 
 
 
 The instructions inside the live scripts will guide you through the exercises. Get started with each live script by running it one section at a time. To stop running the script or a section midway, use the Stop button in the **RUN** section of the **Live Editor** tab in the MATLAB Toolstrip.
 
 ## Contact Us
 
-Hints to solutions for challenging exercises are provided after such exercises. The solution to one of the exercises (numerical implementation of Kohn-Sham self-consistent-field algorithm when including l>0 orbitals) is provided in a separate live scrip. Contact the [MathWorks teaching resources team](mailto:onlineteaching@mathworks.com) if you would like to provide feedback, or if you have a question.
+Hints to solutions for challenging exercises are provided after such exercises. The solution to one of the exercises, numerical implementation of Kohn-Sham self-consistent-field algorithm including orbitals with nonzero angular momentum quantum number, is provided in a separate live scrip. Contact the [MathWorks teaching resources team](mailto:onlineteaching@mathworks.com) if you would like to provide feedback, or if you have a question.
 
 <a name="H_30BC7141"></a>
 ## Prerequisites
