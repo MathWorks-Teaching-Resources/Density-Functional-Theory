@@ -17,10 +17,10 @@ This curriculum module contains interactive [MATLAB® live scripts](https://www.
 <a name="H_F00D98E4"></a>
 ## Background
 
-You can use these live scripts to teach an introduction to density functional theory, an inherently computational topic. The first few live scripts review the fundamentals of single-particle quantum mechanics and highlight usage of symbolic computations. Then Hartree and Hartree-Fock variational methods are introduced and simple numerical codes are provided for calculating the ground state energy of helium atom. Next, we present the Thomas-Fermi model of an atom, introducing the key notion of the energy functional of electron density. Density functional theory and its orbital-free and Kohn-Sham implementations are covered in the later live scrips. Numerical implementations of OFDFT and KS-DFT are provided for systems with spherically symmetric ground state electron densities, such as atoms with filled shells. 
+You can use these live scripts to teach an introduction to density functional theory, an inherently computational topic. The first few live scripts review the fundamentals of single-particle quantum mechanics and highlight usage of symbolic computations. Then Hartree and Hartree-Fock variational methods are introduced and simple numerical codes are provided for calculating the ground state energy of helium atom. Next, we present the Thomas-Fermi model of an atom, introducing the key notion of the energy functional of electron density. Density functional theory and its orbital-free and Kohn-Sham implementations are covered in the later live scrips. Numerical implementations of OFDFT and KS-DFT are provided for systems with spherically symmetric ground state electron densities. 
 
 
-The instructions inside the live scripts will guide you through the exercises and activities. Get started with each live script by running it one section at a time. To stop running the script or a section midway, use the Stop button in the **RUN** section of the **Live Editor** tab in the MATLAB Toolstrip.
+The instructions inside the live scripts will guide you through the exercises. Get started with each live script by running it one section at a time. To stop running the script or a section midway, use the Stop button in the **RUN** section of the **Live Editor** tab in the MATLAB Toolstrip.
 
 ## Contact Us
 
@@ -50,18 +50,18 @@ MATLAB® and Symbolic Math Toolbox™ are used throughout this module.
 
 <a name="H_E8C62B23"></a>
 # Scripts
-* live script 1: Quantum Particle in Box
-* live script 2: Quantum Particle in Spherically Symmetric Potential
+* live script 1: Particle in Box
+* live script 2: Spherically Symmetric Potential
 * live script 3: Gaussian Wave Packet
 * live script 4: Hydrogen Atom
 * live script 5: Hartree Method
 * live script 6: Hartree-Fock Method
 * live script 7: Thomas-Fermi Approximation
-* live script 8: Density Functional Theory
+* live script 8: From Many-Body Wave Function Description to Density Functional Theory
 * live script 9: Orbital-Free DFT
 * live script 10: Kohn-Sham DFT
 * live script 11: Applications of DFT
-* live script 12: Solution to Exercise 1 in live script KS_DFT
+* live script 12: KS-DFT Solution to Exercise 1 
 
 <a name="H_F61733D7"></a>
 # License
