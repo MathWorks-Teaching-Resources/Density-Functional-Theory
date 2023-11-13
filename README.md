@@ -1,4 +1,4 @@
-# Density-Functional-Theory
+# Density Functional Theory
 Fundamentals and Applications of Density Functional Theory with Interactive Live Scripts and Intuitive Codes.
 Curriculum Module created in collaboration with Xin Jing, Graduate Research Assistant at Georgia Institute of Technology.
 <a name="T_DEF03274"></a>
