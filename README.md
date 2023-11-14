@@ -37,7 +37,7 @@ This module assumes knowledge of quantum mechanics fundamentals and basic to mod
 ### Accessing the Module
 ### **On MATLAB Online:**
 
-Use the  [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Density-FUnctional-Theory) link to download the module. 
+Use the  [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Density-Functional-Theory) link to download the module. 
 
 ### **On Desktop:**
 
