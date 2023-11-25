@@ -62,7 +62,8 @@ MATLAB® and Symbolic Math Toolbox™ are used throughout this module.
 * live script 9: Orbital-Free DFT
 * live script 10: Kohn-Sham DFT
 * live script 11: Applications of DFT
-* live script 12: KS-DFT Solution to Exercise 1 
+* live script 12: Solution to Exercise 1 in KS-DFT 
+* live script 13: Solution to Exercise 7 in Orbital-Free DFT
 
 <a name="H_F61733D7"></a>
 # License
