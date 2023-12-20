@@ -25,7 +25,7 @@ The instructions inside the live scripts will guide you through the exercises. G
 
 ## Contact Us
 
-Hints to solutions for challenging exercises are provided after such exercises. The solution to one of the exercises, numerical implementation of Kohn-Sham self-consistent-field algorithm including orbitals with nonzero angular momentum quantum number, is provided in a separate live script. Contact the [MathWorks teaching resources team](mailto:onlineteaching@mathworks.com) if you would like to provide feedback, or if you have a question.
+Hints to solutions for challenging exercises are provided after such exercises. The solutions to two exercises: one for the numerical implementation of Kohn-Sham method including orbitals with nonzero angular momentum and another for solving OFDFT as an eigen problem for effective hamiltonian, are provided as separate live scripts. Contact the [MathWorks teaching resources team](mailto:onlineteaching@mathworks.com) if you would like to provide feedback, or if you have a question.
 
 <a name="H_30BC7141"></a>
 ## Prerequisites
