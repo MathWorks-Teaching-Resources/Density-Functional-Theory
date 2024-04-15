@@ -64,7 +64,7 @@ MATLAB® and Symbolic Math Toolbox™ are used throughout this module.
 * live script 11: Applications of DFT
 * live script 12: Solution to Exercise 1 in KS-DFT 
 * live script 13: Solution to Exercise 7 in Orbital-Free DFT
-* live script 14: Quantum Harmonic Oscillator in 1, 2, and 3-dimensions
+* live script 14: Quantum Harmonic Oscillator in 1, 2, and 3-Dimensions
   
 <a name="H_F61733D7"></a>
 # License
