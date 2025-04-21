@@ -69,7 +69,7 @@ MATLAB® and Symbolic Math Toolbox™ are used throughout this module.
 <a name="H_F61733D7"></a>
 # License
 
-The license for this module is available in the [LICENSE](https://github.com/MathWorks-Teaching-Resources/Density-Functional-Theory/main/LICENSE).
+The license for this module is available in the [LICENSE](https://github.com/MathWorks-Teaching-Resources/Density-Functional-Theory/blob/main/LICENSE).
 
 
 
