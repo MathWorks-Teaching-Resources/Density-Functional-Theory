@@ -60,7 +60,8 @@ MATLAB® and Symbolic Math Toolbox™ are used throughout this module.
 * live script 7: Thomas-Fermi Approximation
 * live script 8: From Many-Body Wave Function Description to Density Functional Theory
 * live script 9: Orbital-Free DFT
-* live script 10: Kohn-Sham DFT
+* live script 10: Kohn-Sham DFT (LDA)
+* live script 10': Kohn-Sham DFT extended agentically to include GGA (PBE) 
 * live script 11: Applications of DFT
 * live script 12: Solution to Exercise 1 in KS-DFT 
 * live script 13: Solution to Exercise 7 in Orbital-Free DFT
