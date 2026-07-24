@@ -5,15 +5,15 @@
 %[text:tableOfContents]{"heading":"Contents"}
 %%
 %[text] ## Why Replace LDA by PBE
-%[text] In the original lecture the exchange-correlation term depends only on the local density $\\rho(r) $. That local-density approximation is simple and useful, but atomic densities vary rapidly near the nucleus and in the density tail, so gradient corrections are often important. In the PBE generalized-gradient approximation the exchange-correlation energy depends on both the density and its radial derivative,
-%[text]{"align":"center"} $ E\_{xc}\[\n\\rho\] = \\int \n\\rho(\\mathbf{r}) \\epsilon\_{xc}(\n\\rho,\n\\nabla \n\\rho) d\\mathbf{r}. $
+%[text] In the original lecture the exchange-correlation term depends only on the local density $\\rho (\\mathbf{r}) $. That local-density approximation is simple and useful, but atomic densities vary rapidly near the nucleus and in the density tail, so gradient corrections are often important. In the PBE generalized-gradient approximation the exchange-correlation energy depends on both the density and its spatial gradient,
+%[text]{"align":"center"} $ E\_{xc}\[\n\\rho\] = \\int \n\\rho(\\mathbf{r}) \\epsilon\_{xc}\\big(\n\\rho (\\mathbf{r})  ,\n\\nabla \n\\rho(\\mathbf{r}) \\big) d\\mathbf{r}. $
 %[text] For a spherically symmetric density the corresponding exchange-correlation potential becomes
 %[text]{"align":"center"} $ V\_{xc}(r) = \\frac{\\delta E\_{xc}\[\\rho\]}{\\delta \\rho(\\mathbf{r})}=\\frac{\\partial (\n\\rho \\epsilon\_{xc})}{\\partial \n\\rho} - \\frac{1}{r^2}\\frac{d}{dr}\\left\[r^2 \\frac{\\partial (\n\\rho \\epsilon\_{xc})}{\\partial (\\partial \n\\rho/\\partial r)}\n\\right\]. $
 %[text] The numerical solver below evaluates this radial functional derivative directly on the finite-difference grid.
 %[text] 
 %%
 %[text] ## Example Calculation
-%[text] Choose an atomic number and a radial grid, then run the self-consistent PBE calculation. Compared with the original LDA lecture, a small amount of density mixing is used because GGA functionals are usually less forgiving numerically.
+%[text] Choose an atomic number, radial grid, and other parameters then run the self-consistent PBE calculation. Compared with the LDA case, a small amount of density mixing is used because GGA functionals are usually less forgiving numerically.
 Z = 2;
 R_MAX = 40;
 Nd = 2000;
